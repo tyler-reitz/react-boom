@@ -4,7 +4,7 @@
   "description": "my personal react boilerplate",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watch",
+    "test": "jest",
     "dev": "webpack-dev-server --open"
   },
   "keywords": [
